@@ -451,6 +451,14 @@
     <Content Include="Views\ArticlePage\Index.cshtml" />
     <Content Include="module.config" />
     <Content Include="Views\SearchPage\Index.cshtml" />
+    <Content Include="Views\BlogStartPage\Index.cshtml" />
+    <Content Include="Views\BlogListPage\Index.cshtml" />
+    <Content Include="Views\BlogItemPage\Index.cshtml" />
+    <Content Include="Views\BlogListBlock\Index.cshtml" />
+    <Content Include="Views\BlogItem\Full.cshtml" />
+    <Content Include="Views\BlogItem\Preview.cshtml" />
+    <Content Include="Views\TagCloudBlock\Index.cshtml" />
+    <Content Include="Views\Shared\Blocks\BlogArchiveBlock.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
